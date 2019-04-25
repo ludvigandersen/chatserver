@@ -1,4 +1,4 @@
 # chatserver
 Obligatorisk opgave 1 - Chatserver
 
-Multithreaded Client/server Chatserver, der bruges i konsollen.
+Multithreaded Client/server Chatserver.
